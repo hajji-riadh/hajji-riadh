@@ -10,7 +10,7 @@
  
  🔭 I’m currently **a Full Stack JavaScript Developer**
  
- 🌱 I’m currently learning **Flutter, Dev Mobile, AWS**
+ 🌱 I’m currently learning **Flutter, React Native, AWS**
 
 💬 Ask me about **Node.js, React, MongoDB... or anything about MERN**
 
