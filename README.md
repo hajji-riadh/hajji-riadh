@@ -3,7 +3,7 @@
 </h1>
 
 <hr />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajji-riadh&label=Profile%20views&color=0e75b6&style=flat" alt="hajji-riadh" /> </p>
 <h3 align="center">A passionate software developer from Tunisia</h3>
 <br />
 <div align="center">
